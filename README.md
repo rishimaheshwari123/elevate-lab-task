@@ -1,48 +1,22 @@
-**Clone and Setup Instructions:**
+## Elevate-Lab-Task
+ </br>
+ <div align='center'>
+    <a href="https://elevate-lab-task.vercel.app"> 🌐 Live 🌐</a> </div> </br>
 
-To clone and set up this Next.js project locally, follow these steps:
+## Tech Stack Used
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-1. Clone the repository from GitHub:
 
-```bash
-git clone https://github.com/Phoenix6296/Elevate-Lab-Task.git
+# Setup And Testing
 ```
-
-2. Change your working directory to the project folder:
-
-```bash
-cd Elevate-Lab-Task
-```
-
-3. Install the project dependencies using npm, yarn, or pnpm (choose one):
-
-```bash
 npm install
-# or
-yarn
-# or
-pnpm install
 ```
-
-4. Run the development server:
-
-```bash
+```
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
-
-5. Once the development server is running, open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
-
-GitHub Repo Link: [https://github.com/Phoenix6296/Elevate-Lab-Task](https://github.com/Phoenix6296/Elevate-Lab-Task)
-
-Live Link: [https://elevate-lab-task.vercel.app/](https://elevate-lab-task.vercel.app/)
-
-
-**Screenshots:**
-
-![Performance Screenshot](https://github.com/Phoenix6296/Elevate-Lab-Task/assets/72021425/8c4a5885-a79c-4087-a7f6-1d2564d45953)
-![Web View Screenshot](https://github.com/Phoenix6296/Elevate-Lab-Task/assets/72021425/1caeb786-4b4d-41a1-aeb1-a5f16cd9c887)
-![Mobile View Screenshot](https://github.com/Phoenix6296/Elevate-Lab-Task/assets/72021425/4e61c65d-e7a7-4a5f-8768-f0737c981e45)
